@@ -1,0 +1,22 @@
+### Getting started:
+Coming soon!
+
+### Important config files:
+```
+~/Technic/modpacks/magicboys/
+	options.txt
+	optionsof.txt
+	optionsshaders.txt
+	servers.dat
+	usercache.json
+	saves/*
+	screenshots/*
+	config/
+		xaerominimap.txt
+		xaeroworldmap.txt
+		oreexcavation_groups.json
+		oreexcavation_overrides.json
+		oreexcavation_shapes.json
+		XaeroWaypoints/*
+		XaeroWorldMap/*
+```

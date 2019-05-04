@@ -1,6 +1,5 @@
 - Updated Forge to version 14.23.5.2824
 
-- Updated Thaumcraft to version 6.1.BETA26
 - Updated Thaumic JEI to version 1.5.5-23
 - Updated Thaumic Additions: Reconstructed to version 12r
 - Updated Hammer Core to version 2.0.4.3

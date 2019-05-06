@@ -1,29 +1,3 @@
-- Updated Forge to version 14.23.5.2824
-
-- Updated Thaumic JEI to version 1.5.5-23
-- Updated Thaumic Additions: Reconstructed to version 12r
-- Updated Hammer Core to version 2.0.4.3
-- Updated Dark Utilities to version 1.8.223
-- Updated Bookshelf to version 2.3.577
-- Updated The Betweenlands to version 3.4.6
-- Updated AmbientSounds to version 3.0.3
-- Updated Quark to version r1.5-146
-- Updated AutoRegLib to version 1.3-26
-- Updated ConnectedTexturesMod to version 0.3.3.22
-- Updated Random Things to version 4.2.7
-- Updated Storage Drawers to version 5.3.8
-- Updated OreExcavation to version 1.4.137
-- Updated Fast Leaf Decay to version 15
-- Updated JustEnoughItems to version 4.15.0.268
-- Updated Xaero's Minimap to version 1.16.2
-- Updated Xaero's World Map to version 1.3.4.1
-- Updated OptiFine to version HD_U_E3
-- Updated Mouse Tweaks to version 2.10
-
-- Added Railcraft (version 12.0.0)
-
-- Removed Blood Magic (version 2.3.3-101)
-- Removed Guide-API (version 2.1.6-61)
-- Removed Biomes O' Plenty (version 7.0.1.2399-universal)
+- Rolled back Fast Leaf Decay to version 14
 
 ♂

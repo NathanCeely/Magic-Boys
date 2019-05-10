@@ -1,0 +1,60 @@
+In:
+```
+Alps
+Alps Foothills
+Bamboo Forest
+Bayou
+Boreal Forest
+Cherry Blossom Grove
+Coniferous Forest
+Coral Reef
+Corrupted Sands
+Eucalyptus Forest
+Flower Field
+Flower Island
+Fungi Forest
+Glacier
+Gravel Beach
+Grove
+Highland
+Kelp Forest
+Land Of Lakes
+Lavender Fields
+Lush Desert
+Lush Swamp
+Mangrove
+Maple Woods
+Marsh
+Meadow
+Moor
+Mountain
+Mountain Foothills
+Mystic Grove
+Oasis
+Ominous Woods
+Orchard
+Origin Beach
+Origin Island
+Overgrown Cliffs
+Pasture
+Phantasmagoric Inferno
+Prairie
+Rainforest
+Redwood Forest
+Redwood Forest Edge
+Sacred Springs
+Seasonal Forest
+Shrubland
+Snowy Coniferous Forest
+Snowy Forest
+Steppe
+Temperate Rainforest
+Tropical Island
+Tropical Rainforest
+Undergarden
+Visceral Heap
+Volcanic Island
+Wetland
+White Beach
+Woodland
+```

@@ -1,0 +1,11 @@
+Notably in:
+```
+Brushland
+Crag
+Dead Forest
+Grassland
+Outback
+Quagmire
+Wasteland
+Xeric Shrubland
+```

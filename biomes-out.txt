@@ -1,0 +1,11 @@
+Out:
+```
+Bog
+Chaparral
+Cold Desert
+Dead Swamp
+Fen
+Shield
+Snowy Tundra
+Tundra
+```

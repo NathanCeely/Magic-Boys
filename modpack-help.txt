@@ -1,18 +1,21 @@
 ### Getting started:
 Introduction to BuildCraft oil processing:
-https://imgur.com/a/AXUOX
+[imgur.com](https://imgur.com/a/AXUOX)
 
 Additional BuildCraft oil processing information:
-https://docs.google.com/drawings/d/1Rw9FmkWDkEadvAEJgX_UtUHNlouZm7girFtfLuKPN9M/edit
+[docs.google.com](https://docs.google.com/drawings/d/1Rw9FmkWDkEadvAEJgX_UtUHNlouZm7girFtfLuKPN9M/edit)
 
 A helpful article on how to get started with Blood Magic:
-https://ftb.gamepedia.com/Getting_Started_(Blood_Magic)
+[ftb.gamepedia.com](https://ftb.gamepedia.com/Getting_Started_(Blood_Magic))
 
 Blood Altar setup:
-https://www.reddit.com/r/feedthebeast/comments/4ayq79/blood_magic_189_altars_and_incense_tutorial/
+[reddit.com](https://www.reddit.com/r/feedthebeast/comments/4ayq79/blood_magic_189_altars_and_incense_tutorial/)
 
 Random Things Wiki:
-https://lumien.net/rtwiki/
+[lumien.net](https://lumien.net/rtwiki/)
+
+Sources of Thaumcraft essentia mega thread:
+[reddit.com](https://www.reddit.com/r/Thaumcraft/comments/8gtfak/sources_of_essentia_mega_guide_tc6/)
 
 ### Important config files:
 ```

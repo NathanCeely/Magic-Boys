@@ -1,5 +1,30 @@
-- Added Biomes O' Plenty (version 7.0.1.2438)
+  ///////////////////////////////////
+ ///   Patch notes formatting:   ///
+///////////////////////////////////
 
-- Rolled back Forge to version 14.23.5.2828
+Something (usually Forge) hotfix:
+
+- Updated Mod to version 1.0.0
+
+- Added Mod (version 1.0.0)
+
+- Removed Mod (version 1.0.0)
+
+- Rolled back Mod to version 1.0.0
+
+  ///////////////////////////////
+ ///   Actual patch notes:   ///
+///////////////////////////////
+
+Magic Boys ♂ now uses semantic versioning.
+
+- Updated Forge to version 14.23.5.2838
+
+- Added BuildCraft (version 7.99.24.1)
+- Added Iron Tanks (version 2.1.0 Beta 14)
+- Added Blood Magic (version 2.4.1-103)
+- Added Guide-API (version 1.8-63)
+
+- Added Fullscreen Windowed (Borderless) for Minecraft (version 1.6.0)
 
 ♂

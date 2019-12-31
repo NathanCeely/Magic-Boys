@@ -16,15 +16,37 @@ Something (usually Forge) hotfix:
  ///   Actual patch notes:   ///
 ///////////////////////////////
 
-Magic Boys ♂ now uses semantic versioning.
+- A new stable release for Biomes O' Plenty is available (version 7.0.1.2441), but I am leaving our existing version as-is. Learn what patch notes are, buddy.
+- Hammer Core is now known as Hammer Lib.
 
-- Updated Forge to version 14.23.5.2838
+- Updated Forge to version 14.23.5.2847
 
-- Added BuildCraft (version 7.99.24.1)
-- Added Iron Tanks (version 2.1.0 Beta 14)
-- Added Blood Magic (version 2.4.1-103)
-- Added Guide-API (version 1.8-63)
+- Updated Thaumic JEI to version 1.6.0-27
+- Updated Thaumic Additions: Reconstructed to version 22r
+- Updated Hammer Lib to version 2.0.5.9
+- Updated BuildCraft to version 7.99.24.4
+- Updated Iron Tanks to version 2.1.0 Beta 18
+- Updated Blood Magic to version 2.4.3-105
+- Updated Dark Utilities to version 1.8.230
+- Updated Bookshelf to version 2.3.590
+- Updated The Betweenlands to version 3.5.4
+- Updated The Twilight Forest to version 3.10.1013
+- Updated AmbientSounds to version 3.0.9
+- Updated Quark to version r1.6-177
+- Updated AutoRegLib to version 1.3-32
+- Updated Chisel to version 1.0.1.44
+- Updated ConnectedTexturesMod to version 1.0.1.30
+- Updated Random Things to version 4.2.7.3
+- Updated Storage Drawers to version 5.4.0
+- Updated Ore Excavation to version 1.4.140
+- Updated JustEnoughItems to version 4.15.0.291
+- Updated Xaero's Minimap to version 1.19.5
+- Updated Xaero's World Map to version 1.5.3
 
-- Added Fullscreen Windowed (Borderless) for Minecraft (version 1.6.0)
+- Added Rope Bridge (version 2.0.7)
+- Added Clumps (version 3.1.2)
+- Added FoamFix (version 0.10.10)
+
+- Removed OptiFine (version Version HD_U_E3)
 
 ♂

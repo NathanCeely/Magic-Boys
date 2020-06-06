@@ -34,8 +34,8 @@
 ### HUD & Quality of Life
 - [JustEnoughItems](https://minecraft.curseforge.com/projects/jei) - `Version 4.15.0.291` `NEW!`
 - [Hwyla](https://minecraft.curseforge.com/projects/hwyla) - `Version 1.8.26-B41`
-- [Xaero's Minimap](http://chocolateminecraft.com/minimap2.php) - `Version 1.19.5` `NEW!`
-- [Xaero's World Map](http://chocolateminecraft.com/worldmap.php) - `Version 1.5.3` `NEW!`
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - `Version 1.19.5` `NEW!`
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) - `Version 1.5.3` `NEW!`
 
 ### Performance & Miscellaneous
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - `Version 0.10.10` `NEW!`

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/upgrade_aquatic/river"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/upgrade_aquatic/river",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/upgrade_aquatic/river",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/upgrade_aquatic/river",
+      "y": 270
+    }
+  }
+}

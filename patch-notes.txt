@@ -16,8 +16,11 @@ Something (usually Forge) hotfix:
  ///   Actual patch notes:   ///
 ///////////////////////////////
 
-Forge hotfix:
+Magic Boys ♂ is back after an extended hiatus with Magic Boys ♂ Remastered!
 
-- Updated Forge to version 14.23.5.2847 (for real this time)
+- Added Valhelsia (version 5)
+- Added The Reanimated Corpse of Squake (version 19.1.2)
+- Added OreExcavation (version 1.11.166)
+- Added Fast Leaf Decay (version 30)
 
 ♂

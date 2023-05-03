@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/magic"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/magic",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/magic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/magic",
+      "y": 270
+    }
+  }
+}

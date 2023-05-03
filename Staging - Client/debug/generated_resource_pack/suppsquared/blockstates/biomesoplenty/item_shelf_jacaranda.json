@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/jacaranda"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/jacaranda",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/jacaranda",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/biomesoplenty/jacaranda",
+      "y": 270
+    }
+  }
+}

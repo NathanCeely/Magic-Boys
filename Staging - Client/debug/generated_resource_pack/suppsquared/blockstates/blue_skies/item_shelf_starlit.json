@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/blue_skies/starlit"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/blue_skies/starlit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/blue_skies/starlit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/blue_skies/starlit",
+      "y": 270
+    }
+  }
+}

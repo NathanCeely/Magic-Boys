@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/atmospheric/aspen"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/atmospheric/aspen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/atmospheric/aspen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/atmospheric/aspen",
+      "y": 270
+    }
+  }
+}

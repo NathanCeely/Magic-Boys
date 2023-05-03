@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "4c118650-6284-47d4-ad22-77ffc5ee64e3",
+    "name": "UGOTMAIL",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a4f1934f-59a2-448e-8cc9-b28f63849fc6",
+    "name": "HugeCasual",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

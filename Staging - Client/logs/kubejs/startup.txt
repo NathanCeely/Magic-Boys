@@ -1,0 +1,2 @@
+[16:55:29] [INFO ] Loaded script startup_scripts:brewing.js in 0.156 s
+[16:55:29] [INFO ] Loaded 1/1 KubeJS startup scripts in 1.147 s

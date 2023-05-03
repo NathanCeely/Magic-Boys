@@ -1,0 +1,3 @@
+#determines if you want to use a dedicated thread to save player data. Defaults to true
+useSaveThread = true
+

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/twilightforest/transformation"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/twilightforest/transformation",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/twilightforest/transformation",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/twilightforest/transformation",
+      "y": 270
+    }
+  }
+}

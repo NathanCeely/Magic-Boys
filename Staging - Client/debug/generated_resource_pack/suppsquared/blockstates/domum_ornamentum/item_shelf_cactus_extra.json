@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/domum_ornamentum/cactus_extra"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/domum_ornamentum/cactus_extra",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/domum_ornamentum/cactus_extra",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/domum_ornamentum/cactus_extra",
+      "y": 270
+    }
+  }
+}

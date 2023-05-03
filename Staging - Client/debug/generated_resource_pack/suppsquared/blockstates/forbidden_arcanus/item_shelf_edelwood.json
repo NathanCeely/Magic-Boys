@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/forbidden_arcanus/edelwood"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/forbidden_arcanus/edelwood",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/forbidden_arcanus/edelwood",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/forbidden_arcanus/edelwood",
+      "y": 270
+    }
+  }
+}

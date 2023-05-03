@@ -1,0 +1,5 @@
+[16:55:30] [INFO ] Loaded script client_scripts:item_tooltip.js in 0.003 s
+[16:55:30] [INFO ] Loaded script client_scripts:jei_blacklist.js in 0.005 s
+[16:55:30] [INFO ] Loaded script client_scripts:ponder/forbidden_arcanus.js in 0.004 s
+! [16:55:30] [ERR] #20: Error loading KubeJS script: client_scripts:rei_blacklist.js': ReferenceError: "REIEvents" is not defined. (client_scripts:rei_blacklist.js#20)
+[16:55:30] [INFO ] Loaded 3/4 KubeJS client scripts in 0.153 s

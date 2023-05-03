@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/dark_oak"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/dark_oak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/dark_oak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/dark_oak",
+      "y": 270
+    }
+  }
+}
